@@ -28,6 +28,8 @@ tr:nth-child(even)
 .dataBox
 {
     background-color: white;
+    margin-top: 50px;
+    padding: 20px 15px 5px;
     padding-bottom: 60px;
 }
 
