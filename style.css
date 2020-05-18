@@ -1,0 +1,93 @@
+#title
+{
+    background: teal;
+    color: white;
+    font-size: 20px;
+    padding: inherit;
+    margin: inherit;
+    border:inherit;
+    margin-left: 50px;
+    
+}
+
+ul
+{
+    margin-right: 25px;
+}
+
+body
+{
+    background-color: whitesmoke;
+}
+
+tr:nth-child(even) 
+{
+    background-color: lightslategray;
+}
+
+.dataBox
+{
+    background-color: white;
+    padding-bottom: 60px;
+}
+
+#nav
+{
+    background-color: white;
+}
+
+h3
+{
+    color: teal;
+}
+
+h4
+{
+    color: teal;
+}
+
+h5
+{
+    color:teal;
+    text-align: center;
+}
+.boxImg
+{
+    width:100%;
+    height:100%;
+}
+
+#mainImg
+{
+    width:50%;
+    height:50%;
+}
+
+
+.box
+{
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px 15px 5px;
+}
+
+th,
+td
+{
+    text-align: center;
+    padding: 2px;
+}
+
+@media(max-width: 991.98px)
+{
+    #nav
+    {
+        background-color: teal;
+    }
+
+    .navbar div
+    {
+        background-color: white;
+    }
+}
